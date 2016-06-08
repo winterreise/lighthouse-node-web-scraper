@@ -1,0 +1,14 @@
+{
+  "name": "w7d2_node_web_scraper",
+  "version": "0.0.1",
+  "description": "A Node.js web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pui Wing Tam",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "9.2.1"
+  }
+}
